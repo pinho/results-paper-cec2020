@@ -33,4 +33,10 @@ OBS: É necessário ter as bibliotecas `pandas`, `numpy` e `matplotlib` instalad
 
 ## Licença
 
-[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) &copy; Ronaldd Pinho
+Este trabalho é licenciado sob os termos de [Creative Commons Attribution-ShareAlike 4.0
+International License][cc-by-sa].
+
+[CC BY-SA 4.0][cc-by-sa] &copy; Ronaldd Pinho
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
