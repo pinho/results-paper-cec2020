@@ -1,5 +1,5 @@
 import resultados as res
-import seaborn;
+import seaborn
 seaborn.set(); seaborn.set_color_codes("bright")
 
 # Geração das figuras do paper aceito no IEEE CEC'20
