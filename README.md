@@ -1,9 +1,15 @@
-# Pesquisa CEC 2020
+# Resultados do Estudo
+
+> Resultados do estudo comparativo em operadores de crossover de algoritmos
+> genéticos aplicados ao problema de alocação de chaves seccionadoras no
+> planejamento de redes de distribuição de energia.
 
 Arquivos que foram gerados a partir da execução do Algoritmo Genético aplicado
 ao problema de alocação de chaves seccionadoras. Fonte dos estudos em operadores
 de crossover que resultou em um artigo submetido e aceito para publicação no
-[IEEE CEC 2020](https://wcci2020.org/).
+[_IEEE Congress on Evolutionary Computation 2020_](https://wcci2020.org/).
+
+Paper disponível em: https://ieeexplore.ieee.org/document/9185795
 
 ## Arquivos
 
@@ -19,7 +25,8 @@ crossover rate_) de 100% (1.).
 ## Scripts Python
 
 Os scripts python no diretório `resultados` permitem construir `pandas.DataFrame`s
-a partir dos arquivos gerados com as execuções, e criar os boxplots usando as configurações definidas para as figuras incluídas no paper submetido.
+a partir dos arquivos gerados com as execuções, e criar os boxplots usando as
+configurações definidas para as figuras incluídas no paper submetido.
 
 ```py
 import resultados
